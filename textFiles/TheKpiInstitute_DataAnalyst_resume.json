@@ -1,0 +1,117 @@
+{
+  "personal": {
+    "role": "Data Engineer",
+    "name": "Temesgen Gebreabzgi",
+    "phone": "",
+    "email": "",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/temesgen-gebreabzgi/",
+    "professional_summary": "Ambitious Data Engineer with a Bachelor of Science in Information Systems from Addis Ababa University. Experienced in data science, software development, and data engineering techniques. Skilled in developing toolkits, templates, and user guides for data management tools. Adept at centralizing and organizing data, conducting research, and presenting findings to support decision-making."
+  },
+  "work_experience": [
+    {
+      "role": "Junior Generative AI Engineer",
+      "company": "10 Academy",
+      "location": "California, United States",
+      "from": "Apr 2024",
+      "to": "",
+      "description": [
+        "Developed an automated system that transformed textual descriptions of advertisement concepts into detailed storyboards, enhancing the ad creation process, resulting in a 30% increase in creative output efficiency.",
+        "Collaborated with a team to create a scalable data warehouse for LLM fine-tuning using Amharic language data, effectively improving data accessibility and management for analysis tasks.",
+        "Designed and implemented a high-precision legal expert system for contract Q&A, using advanced NLP techniques which achieved a 25% increase in accuracy of contract inquiries."
+      ]
+    },
+    {
+      "role": "Network and System Security Intern",
+      "company": "Ministry of Innovation And Technology- Ethiopia",
+      "location": "Addis Ababa, Ethiopia",
+      "from": "Nov 2023",
+      "to": "Apr 2024",
+      "description": [
+        "Monitored network traffic and enforced security policies, leading to the identification and mitigation of 15+ vulnerabilities and increasing system security by 20%.",
+        "Conducted software testing for bugs and performance, enhancing development efficiency by 20% through thorough vulnerability assessments.",
+        "Developed and delivered security awareness training programs for employees, improving understanding and compliance with security protocols by 40%."
+      ]
+    },
+    {
+      "role": "Junior Software Developer Intern",
+      "company": "AIT Technology",
+      "location": "Addis Ababa, Ethiopia",
+      "from": "Jul 2022",
+      "to": "Sep 2022",
+      "description": [
+        "Implemented RESTful APIs in React that increased the analytics team\u2019s reporting speed by 40%, significantly enhancing data processing capabilities.",
+        "Built two scalable company websites using WordPress, delivering projects on time and improving client engagement and satisfaction rates.",
+        "Collaborated in a team to troubleshoot and optimize database queries, reducing data retrieval time by 15% and ensuring resource efficiency."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Trainee",
+      "university": "10 Academy",
+      "from_date": "April 2024",
+      "to_date": "September 2024",
+      "area": "Generative AI | Machine Learning and Data Engineering",
+      "coursework": []
+    },
+    {
+      "degree": "Bachelor's degree",
+      "university": "Addis Ababa University",
+      "from_date": "December 2019",
+      "to_date": "December 2023",
+      "area": "Information System",
+      "coursework": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Scalable Data Warehouse for LLM fine-tuning",
+      "type": "Academic Project",
+      "link": "None",
+      "from": "May 2023",
+      "to": "Aug 2023",
+      "description": [
+        "Enhanced NLP capabilities for the Amharic language by developing a scalable data pipeline, leading to a 30% increase in processing efficiency compared to previous models.",
+        "Used web scraping and real-time processing tools to streamline data acquisition and transformation processes, significantly reducing data latency by 40%.",
+        "Fine-tuned Llama2 on cleaned Amharic datasets, achieving a 25% improvement in sentiment analysis accuracy and facilitating better language representation in technology."
+      ]
+    },
+    {
+      "name": "Automated storyboard synthesis for digital advertising",
+      "type": "Professional Project",
+      "link": "None",
+      "from": "Jan 2023",
+      "to": "May 2023",
+      "description": [
+        "Developed an automated system that converted textual descriptions into visual storyboards, reducing manual storyboard creation time by 50%.",
+        "Leveraged machine learning and NLP techniques to enhance image generation accuracy, resulting in a 20% increase in client satisfaction based on feedback metrics.",
+        "Collaborated with cross-functional teams to design user guides for the system, improving onboarding processes and reducing training time by 30%."
+      ]
+    },
+    {
+      "name": "Crypto Trading Engineering",
+      "type": "Personal Project",
+      "link": "None",
+      "from": "Sept 2022",
+      "to": "Dec 2022",
+      "description": [
+        "Built a comprehensive platform for back-testing trading strategies that utilized advanced time-series forecasting, improving predictive accuracy by 20%.",
+        "Conducted risk management and portfolio optimization, which led to a 15% increase in simulated trading profits over baseline strategies.",
+        "Created an SQL database for managing transactional data, enabling efficient query execution and user-friendly data retrieval for analysis."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Hands-On Python 3 for Programmers",
+      "by": "Udemy",
+      "link": "http://ude.my/UC-4c270090-4c59-40f1-9f86-39118cd811f4"
+    },
+    {
+      "name": "Data Analysis Fundamentals",
+      "by": "Udacity",
+      "link": "http://confirm.udacity.com/XQMHNDEK"
+    }
+  ]
+}
