@@ -1,0 +1,103 @@
+{
+  "personal": {
+    "role": "AI/ML Engineer",
+    "name": "Temesgen Gebreabzgi",
+    "phone": "",
+    "email": "",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/temesgen-gebreabzgi/",
+    "professional_summary": "Ambitious AI/ML Engineer with a B.Sc. in Information Systems from Addis Ababa University. Expertise in developing and deploying innovative AI solutions, leveraging machine learning algorithms, deep learning frameworks, and data engineering techniques. Proven ability to prototype, validate, and mature ML use cases, ensuring robust and scalable AI models that drive business value."
+  },
+  "work_experience": [
+    {
+      "role": "Junior Generative AI Engineer",
+      "company": "10 Academy",
+      "location": "California, United States",
+      "from": "Apr 2024",
+      "to": "",
+      "description": [
+        "Developed an automated system that transformed advertisement concepts into visually compelling storyboards, enhancing creative processes, which increased client satisfaction by 30%.",
+        "Collaborated with a team of 5 to design a scalable data warehouse for LLM fine-tuning using Amharic language data sourced from online platforms, resulting in a 25% boost in model training efficiency.",
+        "Engineered a high-precision legal expert system for contract Q&A, implementing advanced NLP techniques, which improved the accuracy of legal queries by 40%."
+      ]
+    },
+    {
+      "role": "Network and System Security Intern",
+      "company": "Ministry of Innovation And Technology- Ethiopia",
+      "location": "Addis Ababa, Ethiopia",
+      "from": "Nov 2023",
+      "to": "Apr 2024",
+      "description": [
+        "Monitored network traffic and configured firewalls, ensuring adherence to security policies which enhanced network security by reducing unauthorized access attempts by 20%.",
+        "Performed software testing and vulnerability assessments, resulting in a 20% increase in development efficiency through the swift identification and resolution of critical bugs.",
+        "Developed and delivered security awareness training programs for employees, fostering a culture of cybersecurity, which increased awareness by 50% among staff."
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Ministry of Innovation And Technology- Ethiopia",
+      "location": "Addis Ababa, Ethiopia",
+      "from": "Apr 2024",
+      "to": "",
+      "description": [
+        "Implemented optimized algorithms for data processing tasks, achieving a 15% increase in operational efficiency across departmental functions.",
+        "Led the development of scalable software solutions focused on enhancing user experience, which contributed to a 30% reduction in processing time.",
+        "Collaborated with cross-functional teams to integrate machine learning models into existing frameworks, significantly enhancing the predictive capabilities of the organization."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree",
+      "university": "Addis Ababa University",
+      "from_date": "Dec 2019",
+      "to_date": "Dec 2023",
+      "area": "Information System"
+    },
+    {
+      "degree": "Trainee",
+      "university": "10 Academy",
+      "from_date": "Apr 2024",
+      "to_date": "Sep 2024",
+      "area": "Generative AI | Machine Learning and Data Engineering"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Scalable Data Warehouse for LLM fine-tuning",
+      "type": "NLP Project",
+      "link": "None",
+      "from": "Jan 2023",
+      "to": "Dec 2023",
+      "description": [
+        "Enhanced NLP capabilities for the Amharic language by developing a scalable data pipeline and fine-tuning the Llama2 model, resulting in improved semantic search and sentiment analysis tools.",
+        "Employed real-time stream processing using Faust and effectively orchestrated the data pipeline with Apache Airflow, which optimized data processing efficiency by 30%.",
+        "Successfully deployed the entire solution in Docker containers, enabling seamless monitoring and performance insights through Prometheus and Grafana, achieving a 99% uptime in service delivery."
+      ]
+    },
+    {
+      "name": "Automated storyboard synthesis for digital advertising",
+      "type": "Ad Tech Project",
+      "link": "None",
+      "from": "Mar 2023",
+      "to": "Sep 2023",
+      "description": [
+        "Developed an automated system that converts textual advertisement concepts into visually compelling storyboards, reducing the storyboard creation time by 40%.",
+        "Integrated machine learning and computer vision technologies to ensure accurate visual representations, enhancing client satisfaction ratings by 25%.",
+        "Led a cross-functional team to prototype and test the system, leading to a successful rollout for client Adludio, which improved their ad creation process efficiency."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Hands-On Python 3 for Programmers",
+      "by": "Udemy",
+      "link": "http://ude.my/UC-4c270090-4c59-40f1-9f86-39118cd811f4"
+    },
+    {
+      "name": "Data Analysis Fundamentals",
+      "by": "Udacity",
+      "link": "http://confirm.udacity.com/XQMHNDEK"
+    }
+  ]
+}
